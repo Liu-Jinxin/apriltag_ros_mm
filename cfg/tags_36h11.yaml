@@ -1,6 +1,6 @@
 /**:
   ros__parameters:
-    image_transport: raw
+    image_transport: compressed
     family: 36h11
     size: 0.068
     max_hamming: 0
@@ -16,6 +16,6 @@
     pose_estimation_method: "pnp"
 
     tag:
-      ids: [1, 2, 3, 4, 5, 6, 66]
-      frames: [tag01, tag02, tag03, tag04, tag05, tag06, tag66]
-      sizes: [0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.072]
+      ids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 66]
+      frames: [tag01, tag02, tag03, tag04, tag05, tag06, tag07, tag08, tag09, tag10, tag11, tag12, tag66]
+      sizes: [0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.068, 0.072]
